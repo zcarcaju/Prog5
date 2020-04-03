@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Isaque_FP/1.0.0": {
+        "runtime": {
+          "Isaque_FP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Isaque_FP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

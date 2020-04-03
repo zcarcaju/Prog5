@@ -1,0 +1,11 @@
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\obj\Debug\netcoreapp2.1\TesteUnitario.csprojAssemblyReference.cache
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\obj\Debug\netcoreapp2.1\TesteUnitario.csproj.CoreCompileInputs.cache
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\obj\Debug\netcoreapp2.1\TesteUnitario.AssemblyInfoInputs.cache
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\obj\Debug\netcoreapp2.1\TesteUnitario.AssemblyInfo.cs
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\bin\Debug\netcoreapp2.1\TesteUnitario.deps.json
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\bin\Debug\netcoreapp2.1\TesteUnitario.runtimeconfig.json
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\bin\Debug\netcoreapp2.1\TesteUnitario.runtimeconfig.dev.json
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\bin\Debug\netcoreapp2.1\TesteUnitario.dll
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\bin\Debug\netcoreapp2.1\TesteUnitario.pdb
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\obj\Debug\netcoreapp2.1\TesteUnitario.dll
+C:\Users\Isaque-PC\Documents\GitHub\Prog5\TesteUnitario\TesteUnitario\TesteUnitario\TesteUnitario\obj\Debug\netcoreapp2.1\TesteUnitario.pdb
