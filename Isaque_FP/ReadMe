@@ -1,0 +1,12 @@
+Principais vantagens e desvantagens da prog funcional em relação à prog orientada a objetos?
+    
+    Vantagens
+    - Fácil de testar
+    - Pureza e honestidade de funções bem maior
+    - Passar funções como parâmetros
+
+
+    Desvantagem
+    - Ocupa muita memoria
+    - Não pode mudar variaveis
+    - Funções devem ser pequenas
