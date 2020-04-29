@@ -1,0 +1,11 @@
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\bin\Debug\netcoreapp2.1\FP3.deps.json
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\bin\Debug\netcoreapp2.1\FP3.runtimeconfig.json
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\bin\Debug\netcoreapp2.1\FP3.runtimeconfig.dev.json
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\bin\Debug\netcoreapp2.1\FP3.dll
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\bin\Debug\netcoreapp2.1\FP3.pdb
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\obj\Debug\netcoreapp2.1\FP3.csprojAssemblyReference.cache
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\obj\Debug\netcoreapp2.1\FP3.csproj.CoreCompileInputs.cache
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\obj\Debug\netcoreapp2.1\FP3.AssemblyInfoInputs.cache
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\obj\Debug\netcoreapp2.1\FP3.AssemblyInfo.cs
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\obj\Debug\netcoreapp2.1\FP3.dll
+C:\Users\Isaque-Notebook\Documents\GitHub\Prog5\Isaque_FP3\FP3\FP3\obj\Debug\netcoreapp2.1\FP3.pdb
